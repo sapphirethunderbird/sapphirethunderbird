@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🔭 I'm interested in working on implementing RAG locally.
+- 🤔 I’m looking for help with RAG and vector databases.
 - 🌱 I'm currently learning about databases and database management.<br>I'm also studying for the Fundamental Information Technology Engineer Exam.
 - 💬 Love to geek out over AI.
 
+## My Story
+I started my journey with tech out of **curiosity**. I wanted understand why things are the way they are, and how I could utilize them to solve real-world problems. Every day, I continue my learning journey and have fun along the way.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whisnantscarlett817@gmail.com) 
