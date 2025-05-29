@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **sapphirethunderbird/sapphirethunderbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Scarlett!)](https://git.io/typing-svg)
+<h1 align="center>
+  <img src= "https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Scarlett!" />
+</h1>
 
 # 💫 About Me:
 - 🔭 I'm interested in working on implementing RAG locally.
