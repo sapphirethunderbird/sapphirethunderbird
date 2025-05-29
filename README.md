@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center>
-  <img src= "https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Scarlett!" />
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&lines=Hi+there+👋;I'm+Scarlett!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 - 🔭 I'm interested in working on implementing RAG locally.
