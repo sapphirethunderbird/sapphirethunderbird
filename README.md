@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&center=true&lines=Hi+there+👋;I'm+Scarlett!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&center=true&vCenter=true&lines=Hi+there+👋;I'm+Scarlett!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 - 🔭 I'm interested in working on implementing RAG locally.
