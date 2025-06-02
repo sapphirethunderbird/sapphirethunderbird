@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🔭 I'm interested in working on implementing RAG locally.
 - 🤔 I’m looking for help with RAG and vector databases.
-- 🌱 I'm currently learning about databases and database management.<br>I'm also studying for the Fundamental Information Technology Engineer Exam.
+- 🌱 I'm currently learning about databases and database management.
+- 🌱 I'm also studying for the Fundamental Information Technology Engineer Exam.
 - 💬 Love to geek out over AI.
 
 ## My Story
