@@ -35,6 +35,12 @@ I started my journey with tech out of **curiosity**. I wanted understand why thi
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
+</p>
+
 ## 📱 Graphic Design Tools and Other Things I Use...
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,9 +49,17 @@ I started my journey with tech out of **curiosity**. I wanted understand why thi
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sapphirethunderbird&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://nirzak-streak-stats.vercel.app">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sapphirethunderbird&theme=nightowl&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
