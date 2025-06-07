@@ -48,7 +48,17 @@ I started my journey with tech out of **curiosity**. I wanted understand why thi
     <img src="https://skillicons.dev/icons?i=ai,figma,md,notion,obsidian,neovim" />
   </a>
 </p>
-
+<!---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai,figma,md,notion,obsidian,neovim" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai,figma,md,notion,obsidian,neovim&theme=light" />
+      <img alt="Skillicons" src="https://skillicons.dev/icons?i=ai,figma,md,notion,obsidian,neovim" />
+    </picture>
+  </a>
+</p>
+--->
 # 📊 GitHub Stats:
 <p align="center">
   <a href="https://nirzak-streak-stats.vercel.app">
