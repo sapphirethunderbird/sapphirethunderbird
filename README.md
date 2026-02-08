@@ -61,7 +61,7 @@ I started my journey with tech out of **curiosity**. I wanted understand why thi
     <img src="https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
-![Stats](./profile/stats.svg)
+![Stats](ttps://raw.githubusercontent.com/sapphirethunderbird/sapphirethunderbird/output/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
