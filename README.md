@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&center=true&vCenter=true&lines=Hi+there+👋;I'm+Scarlett!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-- 🌌 Tech enthusiast located in Japan.
+- 🌌 Creator (designer/developer) located in Japan.
 - 🔭 Interested in working on implementing RAG locally.
-- 📖 Currently learning about LLMs.
-- 📚 Studying for the Fundamental Information Technology Engineer Exam.
+- 📖 Currently learning about agents.
 - 💬 Love to geek out over AI.
 
 ## My Story
