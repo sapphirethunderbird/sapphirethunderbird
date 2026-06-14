@@ -76,6 +76,3 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapphirethunderbird/sapphirethunderbird/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sapphirethunderbird/sapphirethunderbird/output/github-snake.svg" />
 </picture>
-# Find Me
-[![Website](https://img.shields.io/badge/Portfolio-coming_soon-E0531F?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](#)
