@@ -37,7 +37,7 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 
 # 🛠️ Tools:
 ## 💻 Tech Stack
-<p align="center" padding=12px>
+<p align="center" padding=36px>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript,flutter,react,nextjs,pytorch,linux,r,bash,docker"/>
   </a>
