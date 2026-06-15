@@ -61,7 +61,7 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&title_color=l&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api??username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
