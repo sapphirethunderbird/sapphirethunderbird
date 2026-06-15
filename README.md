@@ -57,9 +57,7 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/sapphirethunderbird">
-    <img src="https://streak-stats.demolab.com/?user=sapphirethunderbird&theme=nightowl&hide_border=false" />
-  </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sapphirethunderbird&background=0A0E27&border=1E3A8A&stroke=F4F2ED&ring=E0531F&currStreakNum=F4F2ED&sideNums=F4F2ED&currStreakLabel=F4F2ED&sideLabels=F4F2ED&dates=2344A2" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
