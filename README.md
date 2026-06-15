@@ -44,8 +44,8 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats-ten-swart-84.vercel.app">
-    <img src="https://github-readme-stats-ten-swart-84.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sapphirethunderbird&title_color=l&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
