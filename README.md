@@ -44,8 +44,8 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="github-readme-stats-ten-swart-84.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <a href="https://github-readme-stats-ten-swart-84.vercel.app">
+    <img src="https://github-readme-stats-ten-swart-84.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </p>
 
