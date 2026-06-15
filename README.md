@@ -43,11 +43,11 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
   </a>
 </p>
 <picture>
-  <source
+  <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
-  <source
+  <source align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&bg_color=F4F2ED&text_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
