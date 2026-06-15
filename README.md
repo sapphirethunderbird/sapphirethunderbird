@@ -52,9 +52,9 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&bg_color=F4F2ED&text_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
             media="(prefers-color-scheme: light)"
         />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird"/>
     </picture>
-
+</p>
 ## 📱 Graphic Design Tools and Other Things I Use...
 <p align="center">
   <a href="https://skillicons.dev">
