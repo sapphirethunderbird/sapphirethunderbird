@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github_banner.png](./github_banner.png)
+![banner](./assets/Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&center=true&vCenter=true&lines=Hi+there+👋;I'm+Scarlett!)](https://git.io/typing-svg)
-
-**Why does this problem still exist?**
-I build technology for the people existing systems forgot to design for.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=DE560F&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Scarlett!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I moved to Japan from the US at 11 with zero Japanese, went through Japanese public middle and high school entirely in Japanese, and tested into a national university against native speakers. Getting fluent fast in systems that weren't built for me is how I learned to operate.
@@ -42,13 +39,13 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,pytorch,linux,r,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,flutter,react,nextjs,pytorch,linux,r,bash,docker"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="github-readme-stats-ten-swart-84.vercel.app/api/top-langs/?username=sapphirethunderbird&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </p>
 
