@@ -35,33 +35,30 @@ The first version had a major flaw hiding in plain sight: it loaded the model's 
 [Watch the repo](https://github.com/sapphirethunderbird/burnout_predictor) to see it happen in real time.
 
 
-# 🛠️ Tools:
-## 💻 Tech Stack
-<p align="center" padding=36px>
+# 🛠️ Tech Stack:
+<p padding=36px>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript,flutter,react,nextjs,pytorch,linux,r,bash,docker"/>
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&border_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&border_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
   </a>
 </p>
-
-## 📱 Graphic Design Tools and Other Things I Use...
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,figma,md,notion,obsidian,neovim" />
   </a>
 </p>
-
-# 📊 GitHub Stats:
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sapphirethunderbird&background=0A0E27&border=1E3A8A&stroke=F4F2ED&ring=E0531F&currStreakNum=F4F2ED&sideNums=F4F2ED&currStreakLabel=F4F2ED&sideLabels=F4F2ED&dates=2344A2" alt="GitHub Streak" /></a>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sapphirethunderbird&background=0A0E27&border=1E3A8A&stroke=F4F2ED&ring=E0531F&currStreakNum=F4F2ED&sideNums=F4F2ED&currStreakLabel=F4F2ED&sideLabels=F4F2ED&dates=2344A2" alt="GitHub Streak" />
+  </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api??username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&border_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img alt="GitHub readme stats" src="https://github-readme-stats.vercel.app/api??username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&border_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
