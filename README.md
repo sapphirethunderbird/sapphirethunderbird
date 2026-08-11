@@ -27,13 +27,8 @@ I moved to Japan from the US at 11 with zero Japanese, went through Japanese pub
 
 I care what I ship, and I think it's never the user's fault when something doesn't work. That's what the build needs to fix.
 
-# Currently Building: Burnout Predictor
-I'm rebuilding [burnout_predictor](https://github.com/sapphirethunderbird/burnout_predictor) from the ground up.
-
-The first version had a major flaw hiding in plain sight: it loaded the model's default weights, not the ones I actually trained. I'm going to take this rebuild as an opportunity to be able to explain every decision made: the training loop, the inference pipeline, the local-first data model; not just the parts AI helped me write. 
-
-[Watch the repo](https://github.com/sapphirethunderbird/burnout_predictor) to see it happen in real time.
-
+# Currently Building: Shirabase
+I'm building [Shirabase](https://github.com/sapphirethunderbird/shirabase), a web app that transforms unstructured syllabi into actionable, market-ready skills. After trying to redesign the course management system, I asked for feedback from students and professors. I then shifted my focus from simple course management to creating new value from already existing syllabi. Syllabus data is analyzed locally in the browser. Currently deployed to Vercel with analytics integrated. 
 
 # 🛠️ Tech Stack:
 <p padding=36px>
