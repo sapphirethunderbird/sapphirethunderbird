@@ -52,7 +52,7 @@ I'm building [Shirabase](https://github.com/sapphirethunderbird/shirabase), a we
   </a>
 </p>
 <p>
-  <a href="https://github-readme-stats.vercel.app">
+  <a href="https://github-stats-extended.vercel.app">
     <img alt="GitHub readme stats" src="https://github-readme-stats.vercel.app/api??username=sapphirethunderbird&title_color=DE560F&bg_color=0A0E27&text_color=F4F2ED&border_color=1E3A8A&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
 </p>
