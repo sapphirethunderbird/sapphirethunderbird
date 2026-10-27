@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=DE560F&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Scarlett!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I moved to Japan from the US at 11 with zero Japanese, went through Japanese public middle and high school entirely in Japanese, and tested into a national university against native speakers. Getting fluent fast in systems that weren't built for me is how I learned to operate.
+I moved to Japan from the US at 11 with zero Japanese, went through Japanese public middle and high school entirely in Japanese, and tested into a national university against native speakers. Getting fluent fast in systems that weren't built for me is how I learned to operate. I work in a wide range of areas, including software, service design, and community design. 
 ## What I Actually Do
 - **Build AI tools from model to interface.** [Real-time burnout detection from facial expression](https://github.com/sapphirethunderbird/burnout_predictor) with MobileNetV2 trained on FER2013, OpenCV inference loop, PyTorch, local-first so the user owns their data.
 - **Rebuild my own work as I get better at it, *in public*.** I reason out loud about what past-me got wrong, and I'm not afraid of being wrong. I'd rather rebuild the right thing than polish the wrong one.
